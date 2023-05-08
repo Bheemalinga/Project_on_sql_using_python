@@ -25,7 +25,7 @@ mycursor.execute("CREATE DATABASE Inventory_Management")
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="Svbb@0808",
+  password="Asdfghjkl123",
   database="Inventory_Management"
 )
 
